@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* font-family: ; */
+  box-sizing: border-box;
+}
+/* Mengatur Body  */
+
+body {
+  background-color: #e952aa;
+  font-family: sans-serif;
+}
+
+/* Mengatur bagian div app  */
+.app {
+  background-color: #fff;
+  width: 90%;
+  max-width: 600px;
+  margin: 100px auto 0;
+  border-radius: 10px;
+  padding: 30px;
+}
+/* Tutup app  */
+/* Mengatur Bagian div app h1  */
+.app h1 {
+  font-size: 25px;
+  color: #001e4d;
+  font-weight: 600;
+  border-bottom: 1px solid #333;
+  padding-bottom: 30px;
+}
+/* Tutup app h1  */
+
+.quis {
+  padding: 20px 0;
+}
+
+.quis h2 {
+  font-size: 18px;
+  color: #001e4d;
+  font-weight: 600;
+}
+
+/* Buttton */
+
+.btn {
+  background-color: #fff;
+  color: #222;
+  font-weight: 500;
+  width: 100%;
+  border: 1px solid #222;
+  margin: 10px 0;
+  padding: 10px;
+  text-align: left;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn:hover:not([disable]) {
+  background: #222;
+  color: #fff;
+}
+
+.btn:disabled {
+  cursor: no-drop;
+}
+/* tutup btn */
+
+/* next btn */
+
+#next-btn {
+  background: #001e4d;
+  color: #fff;
+  font-weight: 500;
+  width: 150px;
+  border: 0;
+  padding: 10px;
+  margin: 20px auto 0;
+  border-radius: 4px;
+  cursor: pointer;
+  display: none;
+}
+
+.correct {
+  background: #9aeabc;
+}
+.incorrect {
+  background: #ff9393;
+}

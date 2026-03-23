@@ -1,0 +1,365 @@
+[
+  {
+    "question": "Siapakah yang membangun bahtera?",
+    "answers": [
+      { "text": "Abraham", "correct": false },
+      { "text": "Nuh", "correct": true },
+      { "text": "Musa", "correct": false },
+      { "text": "Daud", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang membebaskan bangsa Israel dari Mesir?",
+    "answers": [
+      { "text": "Yusuf", "correct": false },
+      { "text": "Musa", "correct": true },
+      { "text": "Harun", "correct": false },
+      { "text": "Yosua", "correct": false }
+    ]
+  },
+  {
+    "question": "Dimana Yesus lahir?",
+    "answers": [
+      { "text": "Nazaret", "correct": false },
+      { "text": "Betlehem", "correct": true },
+      { "text": "Yerusalem", "correct": false },
+      { "text": "Galilea", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa ibu Yesus?",
+    "answers": [
+      { "text": "Maria", "correct": true },
+      { "text": "Marta", "correct": false },
+      { "text": "Elisabet", "correct": false },
+      { "text": "Hana", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa ayah Yesus secara dunia?",
+    "answers": [
+      { "text": "Petrus", "correct": false },
+      { "text": "Yusuf", "correct": true },
+      { "text": "Yakub", "correct": false },
+      { "text": "Daud", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa murid yang mengkhianati Yesus?",
+    "answers": [
+      { "text": "Petrus", "correct": false },
+      { "text": "Yohanes", "correct": false },
+      { "text": "Yudas Iskariot", "correct": true },
+      { "text": "Matius", "correct": false }
+    ]
+  },
+  {
+    "question": "Berapa hari Yesus berpuasa di padang gurun?",
+    "answers": [
+      { "text": "7 hari", "correct": false },
+      { "text": "30 hari", "correct": false },
+      { "text": "40 hari", "correct": true },
+      { "text": "50 hari", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang menulis Mazmur?",
+    "answers": [
+      { "text": "Salomo", "correct": false },
+      { "text": "Daud", "correct": true },
+      { "text": "Musa", "correct": false },
+      { "text": "Yesaya", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang terkenal dengan hikmatnya?",
+    "answers": [
+      { "text": "Daud", "correct": false },
+      { "text": "Salomo", "correct": true },
+      { "text": "Elia", "correct": false },
+      { "text": "Yusuf", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang ditelan ikan besar?",
+    "answers": [
+      { "text": "Elia", "correct": false },
+      { "text": "Yunus", "correct": true },
+      { "text": "Yesaya", "correct": false },
+      { "text": "Yeremia", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Berapa jumlah murid Yesus?",
+    "answers": [
+      { "text": "10", "correct": false },
+      { "text": "12", "correct": true },
+      { "text": "7", "correct": false },
+      { "text": "15", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang menyangkal Yesus tiga kali?",
+    "answers": [
+      { "text": "Yudas", "correct": false },
+      { "text": "Petrus", "correct": true },
+      { "text": "Yohanes", "correct": false },
+      { "text": "Matius", "correct": false }
+    ]
+  },
+  {
+    "question": "Apa mukjizat pertama Yesus?",
+    "answers": [
+      { "text": "Menyembuhkan orang sakit", "correct": false },
+      { "text": "Mengubah air menjadi anggur", "correct": true },
+      { "text": "Berjalan di atas air", "correct": false },
+      { "text": "Memberi makan 5000 orang", "correct": false }
+    ]
+  },
+  {
+    "question": "Dimana Yesus disalibkan?",
+    "answers": [
+      { "text": "Nazaret", "correct": false },
+      { "text": "Betlehem", "correct": false },
+      { "text": "Golgota", "correct": true },
+      { "text": "Galilea", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang membunuh Goliat?",
+    "answers": [
+      { "text": "Saul", "correct": false },
+      { "text": "Daud", "correct": true },
+      { "text": "Salomo", "correct": false },
+      { "text": "Yosua", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa raja pertama Israel?",
+    "answers": [
+      { "text": "Daud", "correct": false },
+      { "text": "Saul", "correct": true },
+      { "text": "Salomo", "correct": false },
+      { "text": "Yosua", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang memimpin Israel masuk ke tanah perjanjian?",
+    "answers": [
+      { "text": "Musa", "correct": false },
+      { "text": "Yosua", "correct": true },
+      { "text": "Harun", "correct": false },
+      { "text": "Daud", "correct": false }
+    ]
+  },
+  {
+    "question": "Kitab pertama dalam Alkitab adalah?",
+    "answers": [
+      { "text": "Keluaran", "correct": false },
+      { "text": "Kejadian", "correct": true },
+      { "text": "Imamat", "correct": false },
+      { "text": "Mazmur", "correct": false }
+    ]
+  },
+  {
+    "question": "Kitab terakhir dalam Alkitab adalah?",
+    "answers": [
+      { "text": "Yudas", "correct": false },
+      { "text": "Wahyu", "correct": true },
+      { "text": "Roma", "correct": false },
+      { "text": "Ibrani", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang menerima 10 perintah Allah?",
+    "answers": [
+      { "text": "Abraham", "correct": false },
+      { "text": "Musa", "correct": true },
+      { "text": "Daud", "correct": false },
+      { "text": "Elia", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Siapa yang membangun bait Allah pertama?",
+    "answers": [
+      { "text": "Daud", "correct": false },
+      { "text": "Salomo", "correct": true },
+      { "text": "Saul", "correct": false },
+      { "text": "Yosua", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang berjalan di atas air bersama Yesus?",
+    "answers": [
+      { "text": "Yohanes", "correct": false },
+      { "text": "Petrus", "correct": true },
+      { "text": "Yakobus", "correct": false },
+      { "text": "Matius", "correct": false }
+    ]
+  },
+  {
+    "question": "Berapa hari Yesus bangkit setelah mati?",
+    "answers": [
+      { "text": "1 hari", "correct": false },
+      { "text": "2 hari", "correct": false },
+      { "text": "3 hari", "correct": true },
+      { "text": "7 hari", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang dikenal sebagai bapak orang beriman?",
+    "answers": [
+      { "text": "Musa", "correct": false },
+      { "text": "Abraham", "correct": true },
+      { "text": "Daud", "correct": false },
+      { "text": "Yakub", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa anak Abraham yang dijanjikan?",
+    "answers": [
+      { "text": "Ismael", "correct": false },
+      { "text": "Ishak", "correct": true },
+      { "text": "Yakub", "correct": false },
+      { "text": "Yusuf", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang menafsirkan mimpi Firaun?",
+    "answers": [
+      { "text": "Musa", "correct": false },
+      { "text": "Yusuf", "correct": true },
+      { "text": "Daniel", "correct": false },
+      { "text": "Harun", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang dilempar ke gua singa?",
+    "answers": [
+      { "text": "Yusuf", "correct": false },
+      { "text": "Daniel", "correct": true },
+      { "text": "Musa", "correct": false },
+      { "text": "Elia", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa nabi yang naik ke surga dengan kereta api berapi?",
+    "answers": [
+      { "text": "Elisa", "correct": false },
+      { "text": "Elia", "correct": true },
+      { "text": "Yesaya", "correct": false },
+      { "text": "Yeremia", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang menggantikan Elia?",
+    "answers": [
+      { "text": "Yesaya", "correct": false },
+      { "text": "Elisa", "correct": true },
+      { "text": "Yeremia", "correct": false },
+      { "text": "Daniel", "correct": false }
+    ]
+  },
+  {
+    "question": "Apa nama taman tempat Adam dan Hawa tinggal?",
+    "answers": [
+      { "text": "Eden", "correct": true },
+      { "text": "Galilea", "correct": false },
+      { "text": "Sion", "correct": false },
+      { "text": "Sinai", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Siapa manusia pertama?",
+    "answers": [
+      { "text": "Nuh", "correct": false },
+      { "text": "Adam", "correct": true },
+      { "text": "Abraham", "correct": false },
+      { "text": "Musa", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa perempuan pertama?",
+    "answers": [
+      { "text": "Sara", "correct": false },
+      { "text": "Hawa", "correct": true },
+      { "text": "Maria", "correct": false },
+      { "text": "Ribka", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang membawa bangsa Israel keluar dari Mesir?",
+    "answers": [
+      { "text": "Harun", "correct": false },
+      { "text": "Musa", "correct": true },
+      { "text": "Yosua", "correct": false },
+      { "text": "Daud", "correct": false }
+    ]
+  },
+  {
+    "question": "Apa laut yang terbelah oleh Musa?",
+    "answers": [
+      { "text": "Laut Mati", "correct": false },
+      { "text": "Laut Merah", "correct": true },
+      { "text": "Laut Galilea", "correct": false },
+      { "text": "Laut Tengah", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang menulis kitab Wahyu?",
+    "answers": [
+      { "text": "Petrus", "correct": false },
+      { "text": "Yohanes", "correct": true },
+      { "text": "Paulus", "correct": false },
+      { "text": "Yakobus", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa rasul bagi bangsa-bangsa non-Yahudi?",
+    "answers": [
+      { "text": "Petrus", "correct": false },
+      { "text": "Paulus", "correct": true },
+      { "text": "Yohanes", "correct": false },
+      { "text": "Yakobus", "correct": false }
+    ]
+  },
+  {
+    "question": "Apa hukum terbesar menurut Yesus?",
+    "answers": [
+      { "text": "Berpuasa", "correct": false },
+      { "text": "Mengasihi Tuhan dan sesama", "correct": true },
+      { "text": "Berdoa", "correct": false },
+      { "text": "Memberi persembahan", "correct": false }
+    ]
+  },
+  {
+    "question": "Apa kitab Injil pertama?",
+    "answers": [
+      { "text": "Markus", "correct": false },
+      { "text": "Matius", "correct": true },
+      { "text": "Lukas", "correct": false },
+      { "text": "Yohanes", "correct": false }
+    ]
+  },
+  {
+    "question": "Siapa yang membaptis Yesus?",
+    "answers": [
+      { "text": "Petrus", "correct": false },
+      { "text": "Yohanes Pembaptis", "correct": true },
+      { "text": "Paulus", "correct": false },
+      { "text": "Yakobus", "correct": false }
+    ]
+  },
+  {
+    "question": "Dimana Yesus dibaptis?",
+    "answers": [
+      { "text": "Sungai Nil", "correct": false },
+      { "text": "Sungai Yordan", "correct": true },
+      { "text": "Laut Merah", "correct": false },
+      { "text": "Danau Galilea", "correct": false }
+    ]
+  }
+]
